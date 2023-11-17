@@ -21,3 +21,9 @@ Each time you end a level the ball will go faster, and the 2-digit counter will 
 You have 3 lives; a led count and the color of the ball show you how many lives you have left. But each time you complete a level you recover a life (max. 3).
 
 This proyect was mede for my Program Elements 2 class.
+
+Please check the FPGA DE10 lite pinout: https://www.terasic.com.tw/cgi-bin/page/archive_download.pl?Language=China&No=1021&FID=a13a2782811152b477e60203d34b1baa
+
+Dont forget to download Quartus and install the correct driver for your project.
+
+Enjoy!
