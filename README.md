@@ -16,7 +16,7 @@ And 2 power downs:
 1. Bar decrease.
 2. Slow bar.
 
-It has 3 rows of blocks with 5 columns (with down, side, and upper coalitions) that you must break.
+It has 4 rows of blocks with 5 columns (with down, side, and upper coalitions) that you must break.
 Each time you end a level the ball will go faster, and the 2-digit counter will be updated.
 You have 3 lives; a led count and the color of the ball show you how many lives you have left. But each time you complete a level you recover a life (max. 3).
 
