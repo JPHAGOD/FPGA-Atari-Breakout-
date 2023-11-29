@@ -1,5 +1,7 @@
 # FPGA-Atari-Breakout-
 
+![alt text]([https://github.com/JPHAGOD/FPGA-Atari-Breakout-/blob/master/Atari.jpg]?raw=true)
+
 FPGA-D10LITE VGA Atari-Breakout
 By: José Pablo Hernández Alonso
 
